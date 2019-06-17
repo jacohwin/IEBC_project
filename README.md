@@ -7,13 +7,9 @@ This project is about a program that can be used by IEBC to register voters when
 4. Be able to upload the details to the server **This is not in the scope of the program as of now**
 
 ## Group members for this project:
-1. Jane Nduta Manyi
-2. Joseph Njogu [@joseph-njogu](http://github.com/joseph-njogu)
-3. James Mwangi [@mwangi-james](http://github.com/mwangi-james)
-4. John Chege
-5. Karim K. Kanji [@kanji-karanja](http://github.com/kanji-karanja)
-6. Ken Ngati
-7. Jacob Mogire[@jacohwin](http://github.com/jacohwin)
+1. Jacob Mogire[@jacohwin](http://github.com/jacohwin)
+2. Karim K. Kanji [@kanji-karanja](http://github.com/kanji-karanja)
+
 
 >"Complexity kills. it sucks the life out of developers,it makes products difficult to plan, build and test, it introduces security challenges, 
 ><br/> and causes end-user and administration frustration"
